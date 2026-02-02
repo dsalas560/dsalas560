@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Salas</h1>
-<h3 align="center">Senior Computer Engineering student at CSUF — graduating May 2026</h3>
+<h3 align="center">Senior Computer Engineering student at CSUF — graduating May 2026<br/>
+  Focused on embedded systems, low-level programming, and digital design
+</h3>
 
 <ul>
   <li>🔭 I’m currently working on <b>Raytheon Project</b></li>
