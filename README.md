@@ -27,80 +27,54 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- SQL / MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <!-- Assembly (generic) -->
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Assembly" width="40" height="40"/>
-  </a>
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
 
-<h3 align="left">Tools & Platforms:</h3>
-<p align="left">
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
+
   <!-- MATLAB -->
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-  <!-- Raspberry Pi -->
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40"/>
+
+  <!-- Assembly -->
+  <img src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png" alt="Assembly" width="40"/>
+
+  <!-- VHDL -->
+  <img src="https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw=w600-h300-pc0xffffff-pd" alt="VHDL" width="75"/>
 </p>
 
 <hr/>
 
-<h3 align="left">IDEs & Environments I’ve worked with:</h3>
+<h3 align="left">Tools, Platforms & IDEs:</h3>
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+  <img src="https://cdn.simpleicons.org/manjaro" alt="Manjaro" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40"/>
   <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-
-  <!-- Code Composer Studio (no official devicon; using a TI chip icon as a stand-in) -->
-  <a href="https://www.ti.com/tool/CCSTUDIO" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Code Composer Studio (TI)" width="40" height="40"/>
-  </a>
-
-  <!-- Vivado (no official devicon; use Xilinx/AMD mark via simpleicons) -->
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/amd" alt="Vivado (AMD/Xilinx)" width="40" height="40"/>
-  </a>
-
-  <!-- Manjaro (simpleicons) -->
-  <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/manjaro" alt="Manjaro" width="40" height="40"/>
-  </a>
-
-  <!-- Linux again is fine here too -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40"/>
+  <!-- Code Composer Studio -->
+  <img src=https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/code_composer_studio.png?itok=fxXjFE0l" alt="Code Composer Studio" width="40"/>
+  <!-- Vivado (AMD/Xilinx logo) -->
+  <img src="https://www.microchipusa.com/_next/image?url=%2Fmedia%2Famd-vivado.webp&w=3840&q=75" alt="Vivado" width="70"/>
+   <!-- My SQL WorkBench -->
+    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="Vivado" width="40"/>
 </p>
 
 <hr/>
 
 <h3 align="left">Snake animation:</h3>
 
-<!-- Most reliable: use the "raw" URL pointing to the branch where the workflow outputs the svg -->
-<img src="https://raw.githubusercontent.com/dsalas560/dsalas560/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- Try this common snake output filename first -->
+<img src="https://raw.githubusercontent.com/dsalas560/dsalas560/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<!-- Fallback if you named it snake.svg -->
-<!-- <img src="https://raw.githubusercontent.com/dsalas560/dsalas560/output/snake.svg" alt="Snake animation" /> -->
 
+<!-- If your output file is named differently, replace the filename above.
+     Common alternatives:
+     - snake.svg
+     - github-contribution-grid-snake-dark.svg -->
