@@ -68,7 +68,7 @@
 
 <hr/>
 
-<h3 align="left">Snake animation:</h3>
+
 
 <!-- Try this common snake output filename first -->
 <img src="https://raw.githubusercontent.com/dsalas560/dsalas560/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
