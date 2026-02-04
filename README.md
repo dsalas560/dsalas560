@@ -4,7 +4,7 @@
 </h3>
 
 <ul>
-  <li>🔭 I’m currently working on <b>Raytheon Project</b></li>
+  <li>🔭 I’m currently working on <b> Raytheon Senior Project</b></li>
   <li>🌱 I’m currently learning <b>Python</b></li>
   <li>📫 How to reach me: <b>danielsalas1560@gmail.com</b></li>
   <li>📄 Know about my experiences:
