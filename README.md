@@ -8,7 +8,7 @@
   <li>🌱 I’m currently learning <b>Python</b></li>
   <li>📫 How to reach me: <b>danielsalas1560@gmail.com</b></li>
   <li>📄 Know about my experiences:
-    <a href="https://drive.google.com/file/d/1oNSzn_fsbVVUVy_ve1thN0N-t2KqZkNM/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1-JjLkTe0KI_vohkZqGBku4drxlFVBgDB/view?usp=drive_link" target="_blank">
       Resume / Experiences
     </a>
   </li>
