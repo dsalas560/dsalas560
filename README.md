@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Salas</h1>
-<h3 align="center">Senior Computer Engineering student at CSUF — graduating May 2026<br/>
+<h3 align="center">Computer Engineer <br/>
   Focused on embedded systems, low-level programming, and digital design
 </h3>
 
 <ul>
-  <li>🔭 I’m currently working on <b> Raytheon Senior Project</b></li>
-  <li>🌱 I’m currently learning <b>Python</b></li>
+  <li>🔭 I’m currently working on <b> F1-Analytic Website</b></li>
+  <li>🌱 I’m currently refining <b>Python</b></li>
   <li>📫 How to reach me: <b>danielsalas1560@gmail.com</b></li>
   <li>📄 Know about my experiences:
     <a href="https://drive.google.com/file/d/154dQbX3B0F-AUJZWm99xPnQdYeJ_RUmQ/view?usp=drive_link" target="_blank">
